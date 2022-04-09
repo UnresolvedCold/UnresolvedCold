@@ -11,14 +11,8 @@
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnresolvedCold&count_private=true&show_icons=true&theme=dark)
 
-![GitwarScore](https://gitwar.herokuapp.com/badge?username=UnresolvedCold&color=red)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![Visits Badge](https://badges.pufler.dev/visits/UnresolvedCold/UnresolvedCold)
 ![Years Badge](https://badges.pufler.dev/years/UnresolvedCold)
 ![Repos Badge](https://badges.pufler.dev/repos/UnresolvedCold)
-
-
-
-
-
-
-
