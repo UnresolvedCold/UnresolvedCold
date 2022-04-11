@@ -1,5 +1,11 @@
 ## Hi I'm Shubham (aka SchwiftyCold or UnresolvedCold)
 
+<div align="right">
+  <img src="https://badges.pufler.dev/visits/UnresolvedCold/UnresolvedCold" />
+  <img src="https://badges.pufler.dev/years/UnresolvedCold" />
+  <img src="https://badges.pufler.dev/repos/UnresolvedCold" />
+</div>
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/f20170712/) 
 [![Twitter](https://img.shields.io/badge/SchwiftyCold-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SchwiftyCold) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/schwiftycold) 
@@ -13,7 +19,3 @@
 
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Visits Badge](https://badges.pufler.dev/visits/UnresolvedCold/UnresolvedCold)
-![Years Badge](https://badges.pufler.dev/years/UnresolvedCold)
-![Repos Badge](https://badges.pufler.dev/repos/UnresolvedCold)
