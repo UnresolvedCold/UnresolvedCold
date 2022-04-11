@@ -7,12 +7,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75000&width=600&lines=Full-Stack+Web+%26+App+Developer;Experienced+AI%2FML+Engineer;Math+and+Electronics+Major;Always+Learning+New+Things;Passionate+about+Coding)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UnresolvedCold&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnresolvedCold&count_private=true&show_icons=true&theme=dark&langs_count=10" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=UnresolvedCold&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://github-readme-stats.vercel.app/api?username=UnresolvedCold&count_private=true&show_icons=true&theme=dark" />
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnresolvedCold&count_private=true&show_icons=true&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnresolvedCold&layout=compact&count_private=true&show_icons=true&theme=dark&langs_count=10)
-
+  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Visits Badge](https://badges.pufler.dev/visits/UnresolvedCold/UnresolvedCold)
