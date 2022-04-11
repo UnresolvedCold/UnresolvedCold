@@ -11,6 +11,8 @@
 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnresolvedCold&count_private=true&show_icons=true&theme=dark)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnresolvedCold&layout=compact&count_private=true&show_icons=true&theme=dark&langs_count=10)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Visits Badge](https://badges.pufler.dev/visits/UnresolvedCold/UnresolvedCold)
