@@ -38,7 +38,7 @@
   ### 🍸 My Skills :
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,vim,angular,ansible,arduino,aws,bash,bootstrap,css,eclipse,elixir,express,figma,firebase,flask,gcp,github,githubactions,gradle,heroku,html,idea,java,js,jenkins,linux,md,matlab,maven,mongodb,mysql,nextjs,nginx,nodejs,php,postgres,py,pytorch,raspberrypi,react,redix,redux,regex,solidity,spring,selenium,tensorflow,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,vim,angular,ansible,arduino,aws,bash,bootstrap,css,eclipse,elixir,express,figma,firebase,flask,gcp,github,githubactions,gradle,heroku,html,idea,java,js,jenkins,linux,md,matlab,maven,mongodb,mysql,nextjs,nginx,nodejs,php,postgres,py,pytorch,raspberrypi,react,redis,redux,regex,solidity,spring,selenium,tensorflow,ts,vscode" />
   </p>
   
 </div>
