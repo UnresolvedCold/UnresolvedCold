@@ -32,18 +32,19 @@
     </tr>
   </table>
   
-  ### :fire: My Stats :
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UnresolvedCold&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-  ![Leetcode Stats](https://leetcode.card.workers.dev/SchwiftyCold?theme=dark&font=baloo&extension=null)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnresolvedCold&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
   ### 🍸 My Skills :
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,vim,angular,ansible,arduino,aws,bash,bootstrap,css,eclipse,elixir,express,figma,firebase,flask,gcp,github,githubactions,gradle,heroku,html,idea,java,js,jenkins,linux,md,matlab,maven,mongodb,mysql,nextjs,nginx,nodejs,php,postgres,py,pytorch,raspberrypi,react,redis,redux,regex,solidity,spring,selenium,tensorflow,ts,vscode" />
   </p>
+  
+  ### :fire: My Stats :
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UnresolvedCold&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+  ![Leetcode Stats](https://leetcode.card.workers.dev/SchwiftyCold?theme=dark&font=baloo&extension=activity&hide_border=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnresolvedCold&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
