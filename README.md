@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td>Highest Qualification</td>
-      <td><a href="https://www.bits-pilani.ac.in/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/200px-BITS_Pilani-Logo.svg.png" width="16"/> M.S. Mathematics</a></td>
+      <td><a href="https://www.bits-pilani.ac.in/"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/200px-BITS_Pilani-Logo.svg.png" width="16"/> M.Sc. Mathematics</a></td>
     </tr>
     <tr>
       <td>Current Location</td>
