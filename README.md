@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td>Company</td>
-      <td><a href="https://www.greyorange.com/"><img src="https://www.greyorange.com/wp-content/uploads/2022/09/logo.png" width="100"/></a></td>
+      <td><a href="https://www.greyorange.com/"><img src="https://cdn.blume.vc/blume/media/images/startups/greyorange/logo/GreyOrange-Robotics.f1670267315.png" width="100"/></a></td>
     </tr>
     <tr>
       <td>Highest Qualification</td>
